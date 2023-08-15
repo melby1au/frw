@@ -1,0 +1,19 @@
+header{
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10vw;
+    align-items: center;
+}
+
+header nav li a{
+    text-decoration: none;
+    padding: 15px;
+    border: 3px solid hotpink;
+    color: white;
+}
+header nav ul{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
